@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @josephcoderegan141
-- 👀 I’m interested in software engineering, cyber security and space exploration 
+- 
+- 👀 I’m interested in software engineering, cyber security and space exploration
+- 
 - 🌱 I’m currently studing computer science and software engineering in Maynooth university!
-- 📫 How to reach me ...
+- 
+- 📫 How to reach me: eganj.joseph@gmail.com
+- 
 - 😄 Pronouns: He/Him
 
 <!---
