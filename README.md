@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in software engineering, cyber security and space exploration
   
-- 🌱 I’m currently studing computer science and software engineering in Maynooth university!
+- 🌱 I’m currently in my 3rd year of college studing computer science and software engineering at Maynooth university!
   
 - 📫 How to reach me: eganj.joseph@gmail.com
   
