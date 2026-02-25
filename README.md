@@ -2,9 +2,9 @@
   
 - 👀 I’m interested in software engineering, cyber security and space exploration
   
-- 🌱 I’m currently in my 3rd year of college studing computer science and software engineering at Maynooth university!
+- 🌱 I’m currently in my 4th year of college studing computer science and software engineering at Maynooth university!
   
-- 📫 How to reach me: eganj.joseph@gmail.com
+- 📫 How to reach me: JOHN.J.EGAN.2023@mumail.ie
   
 - 😄 Pronouns: He/Him
 
