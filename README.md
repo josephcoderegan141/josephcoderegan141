@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephcoderegan141
   
-- 👀 I’m interested in software engineering, cyber security and space exploration
+- 👀 I’m interested in software engineering and cyber security
   
 - 🌱 I’m currently in my 4th year of college studing computer science and software engineering at Maynooth university!
   
